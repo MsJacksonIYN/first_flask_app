@@ -5,7 +5,7 @@ import numpy as np
 from collections import defaultdict
 from sklearn.preprocessing import LabelEncoder, PolynomialFeatures
 from sklearn.model_selection import RandomizedSearchCV
-from xgboost import XGBClassifier
+# from xgboost import XGBClassifier
 
 
 app = Flask(__name__)
