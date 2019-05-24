@@ -3,3 +3,6 @@ gunicorn
 scikit-image
 scikit-learn
 scipy
+pickle
+pandas
+numpy
