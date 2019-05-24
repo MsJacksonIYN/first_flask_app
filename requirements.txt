@@ -6,3 +6,4 @@ scipy
 pickleshare
 pandas
 numpy
+xgboost
