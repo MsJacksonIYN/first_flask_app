@@ -1,1 +1,1 @@
-web: gunicorn hello:app
+web: gunicorn shelter_predict:app

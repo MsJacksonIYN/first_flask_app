@@ -1,2 +1,5 @@
 Flask
 gunicorn
+scikit-image
+scikit-learn
+scipy
